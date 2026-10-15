@@ -21,3 +21,21 @@ body {
   color: white;
   text-decoration: none;
 }
+
+
+.hero {
+  min-height: 300px;
+  padding: 64px 8%;
+  background: #1f5d78;
+  color: white;
+}
+
+.hero h2 {
+  margin: 10px 0 16px;
+  font-size: 46px;
+}
+
+.hero p {
+  max-width: 620px;
+  line-height: 1.8;
+}
